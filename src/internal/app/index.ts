@@ -1,7 +1,7 @@
 import express, { Request, Response } from "express";
 import { injectable } from "tsyringe";
 import allRoutes from "../../routes";
-// import errorHandler from "../../middleware/error/api-error-handler";
+import errorHandler from "../../middleware/error/api-error-handler";
 
 @injectable()
 class App {
@@ -13,7 +13,7 @@ class App {
     });
     app.use(allRoutes);
 
-    // app.use(errorHandler);
+    app.use(errorHandler);
     return app;
   };
 }
