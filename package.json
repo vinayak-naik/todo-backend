@@ -9,7 +9,7 @@
   "scripts": {
     "lint-check": "eslint . --ext ts",
     "lint": "eslint --fix . && prettier --write .",
-    "start": "node dist/index.js",
+    "start": "node dist/index1.js",
     "dev": "nodemon src/index.ts",
     "build": "rimraf dist && tsc",
     "ts.check": "tsc --project tsconfig.json",
