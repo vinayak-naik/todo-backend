@@ -13,7 +13,7 @@ class Server {
   database: MongoDB;
 
   constructor(app: App, database: MongoDB) {
-    this.port = config.port;
+    this.port = Number(config.port);
     this.app = app;
     this.database = database;
   }
