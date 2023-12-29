@@ -21,7 +21,7 @@ class Server {
   create = async () => {
     const app = this.app.setup();
     app.listen(this.port, async () => {
-      logger.info(`App is running at http://localhost:${this.port}`);
+      logger.info(`App is running at http://localhost1:${this.port}`);
       this.database.connect();
     });
   };
