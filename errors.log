@@ -1,0 +1,902 @@
+21:13:09 [32minfo[39m: information log
+21:13:09 [33mwarn[39m: warning log
+21:13:09 [31merror[39m: error log
+21:13:09 [34mdebug[39m: debug log
+[32minfo[39m function createFormatWrap(opts) {
+    return new Format(opts);
+  } : information log
+[33mwarn[39m function createFormatWrap(opts) {
+    return new Format(opts);
+  } : warning log
+[31merror[39m function createFormatWrap(opts) {
+    return new Format(opts);
+  } : error log
+[34mdebug[39m function createFormatWrap(opts) {
+    return new Format(opts);
+  } : debug log
+[32minfo[39m 21:15:30 : information log
+[33mwarn[39m 21:15:30 : warning log
+[31merror[39m 21:15:30 : error log
+[34mdebug[39m 21:15:30 : debug log
+[[32minfo[39m] 21:15:44 : information log
+[[33mwarn[39m] 21:15:44 : warning log
+[[31merror[39m] 21:15:44 : error log
+[[34mdebug[39m] 21:15:44 : debug log
+[[32minfo[39m] 22:27:52 : information log
+[[33mwarn[39m] 22:27:52 : warning log
+[[31merror[39m] 22:27:52 : error log
+[[34mdebug[39m] 22:27:52 : debug log
+[[32minfo[39m] 22:32:07 : information log
+[[33mwarn[39m] 22:32:07 : warning log
+[[31merror[39m] 22:32:07 : error log
+[[34mdebug[39m] 22:32:07 : debug log
+[[32minfo[39m] 22:34:16 : information log
+[[33mwarn[39m] 22:34:16 : warning log
+[[31merror[39m] 22:34:16 : error log
+[[34mdebug[39m] 22:34:16 : debug log
+[[32minfo[39m] 22:34:22 : information log
+[[33mwarn[39m] 22:34:22 : warning log
+[[31merror[39m] 22:34:22 : error log
+[[34mdebug[39m] 22:34:22 : debug log
+[[32minfo[39m] 22:35:20 : information log
+[[33mwarn[39m] 22:35:20 : warning log
+[[31merror[39m] 22:35:20 : error log
+[[34mdebug[39m] 22:35:20 : debug log
+[[32minfo[39m] 22:37:38 : information log
+[[33mwarn[39m] 22:37:38 : warning log
+[[31merror[39m] 22:37:38 : error log
+[[34mdebug[39m] 22:37:38 : debug log
+[[32minfo[39m] 22:37:44 : information log
+[[33mwarn[39m] 22:37:44 : warning log
+[[31merror[39m] 22:37:44 : error log
+[[34mdebug[39m] 22:37:44 : debug log
+[[32minfo[39m] 22:38:55 : information log
+[[33mwarn[39m] 22:38:55 : warning log
+[[31merror[39m] 22:38:55 : error log
+[[34mdebug[39m] 22:38:55 : debug log
+[[32minfo[39m] 22:40:49 : information log
+[[33mwarn[39m] 22:40:49 : warning log
+[[31merror[39m] 22:40:49 : error log
+[[34mdebug[39m] 22:40:49 : debug log
+[[32minfo[39m] 22:43:31 : information log
+[[33mwarn[39m] 22:43:31 : warning log
+[[31merror[39m] 22:43:31 : error log
+[[34mdebug[39m] 22:43:31 : debug log
+[user-service [32minfo[39m] 23:10:45 : information log
+[user-service [33mwarn[39m] 23:10:45 : warning log
+[user-service [31merror[39m] 23:10:45 : error log
+[user-service [34mdebug[39m] 23:10:45 : debug log
+[user-service [32minfo[39m] 23:16:03 : information log
+[user-service [33mwarn[39m] 23:16:03 : warning log
+[user-service [31merror[39m] 23:16:03 : error log
+[user-service [34mdebug[39m] 23:16:03 : debug log
+[user-service [32minfo[39m] 23:41:58 : information log
+[user-service [32minfo[39m] 23:44:55 : information log
+[user-service [32minfo[39m] 23:45:07 : information log
+[user-service [32minfo[39m] 23:45:21 : information log
+[ user-service [32minfo[39m ] 23:46:16 : information log
+*[ user-service [32minfo[39m ] 23:46:31 : information log
+*[ user-service [32minfo[39m ] 23:47:51 : information log
+*[ user-service [32minfo[39m ] 23:47:53 : information log
+*[ user-service [32minfo[39m ] 23:47:55 : information log
+*[ user-service [32minfo[39m ] 23:47:57 : information log
+*[ user-service [32minfo[39m ] 23:47:59 : information log
+*[ user-service [32minfo[39m ] 23:48:01 : information log
+*[ user-service [32minfo[39m ] 23:48:03 : information log
+*[ user-service [32minfo[39m ] 23:48:05 : information log
+*[ user-service [32minfo[39m ] 23:48:07 : information log
+*[ user-service [32minfo[39m ] 23:48:09 : information log
+*[ user-service [32minfo[39m ] 23:48:11 : information log
+*[ user-service [32minfo[39m ] 23:48:13 : information log
+*[ user-service [32minfo[39m ] 23:48:15 : information log
+*[ createServer [32minfo[39m ] 00:04:10 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:04:10 : Application 
+*[ createServer [32minfo[39m ] 00:04:27 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:04:27 : Application 
+*[ createServer [32minfo[39m ] 00:04:55 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:04:55 : Application 
+*[ createServer [32minfo[39m ] 00:05:42 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:05:42 : Application 
+*[ createServer [32minfo[39m ] 00:06:05 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:06:05 : Application 
+*[ Application [32minfo[39m ] 00:06:27 : DB connected
+*[ createServer [32minfo[39m ] 00:06:27 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:06:27 : Application 
+*[ createServer [32minfo[39m ] 00:06:42 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:06:42 : Application 
+*[ Application [32minfo[39m ] 00:06:43 : DB connected
+*[ createServer [32minfo[39m ] 00:07:01 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:07:01 : Application 
+*[ mongoConnect [32minfo[39m ] 00:07:02 : DB connected
+*[ createServer [32minfo[39m ] 00:07:19 : App is running at http://localhost:6073
+*[ application [32minfo[39m ] 00:07:19 : Application 
+*[ mongoConnect [32minfo[39m ] 00:07:19 : DB connected
+*[ mySqlConnect [32minfo[39m ] 00:08:34 : mySqlDB connected
+*[ application [32minfo[39m ] 00:08:34 : Application 
+*[ createServer [32minfo[39m ] 00:08:34 : App is running at http://localhost:8104
+*[ mySqlConnect [32minfo[39m ] 00:11:07 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:11:07 : App is running at http://localhost:8104
+*[ application [32minfo[39m ] 00:11:07 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:12:45 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:12:45 : App is running at http://localhost:6104
+*[ application [32minfo[39m ] 00:12:45 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:13:05 : mySqlDB connected
+*[ application [32minfo[39m ] 00:13:05 : Application 
+*[ createServer [32minfo[39m ] 00:13:05 : App is running at http://localhost:6104
+*[ mySqlConnect [32minfo[39m ] 00:13:27 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:13:27 : App is running at http://localhost:5000
+*[ application [32minfo[39m ] 00:13:27 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:13:37 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:13:37 : App is running at http://localhost:5000
+*[ application [32minfo[39m ] 00:13:37 : Application 
+*[ application [32minfo[39m ] 00:13:54 : Application 
+*[ createServer [32minfo[39m ] 00:13:54 : App is running at http://localhost:5000
+*[ mySqlConnect [32minfo[39m ] 00:13:54 : mySqlDB connected
+*[ mySqlConnect [32minfo[39m ] 00:14:21 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:14:21 : App is running at http://localhost:8104
+*[ application [32minfo[39m ] 00:14:21 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:14:59 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:14:59 : App is running at http://localhost:7086
+*[ application [32minfo[39m ] 00:14:59 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:15:37 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:15:37 : App is running at http://localhost:0
+*[ application [32minfo[39m ] 00:15:37 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:15:54 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:15:54 : App is running at http://localhost:7086
+*[ application [32minfo[39m ] 00:15:54 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:15:59 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:15:59 : App is running at http://localhost:7086
+*[ application [32minfo[39m ] 00:15:59 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:16:18 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:16:18 : App is running at http://localhost:2000
+*[ application [32minfo[39m ] 00:16:18 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:17:09 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:17:09 : App is running at http://localhost:8104
+*[ application [32minfo[39m ] 00:17:09 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:17:24 : mySqlDB connected
+*[ application [32minfo[39m ] 00:17:24 : Application 
+*[ createServer [32minfo[39m ] 00:17:24 : App is running at http://localhost:8104
+*[ createServer [32minfo[39m ] 00:19:46 : App is running at http://localhost:8104
+*[ application [32minfo[39m ] 00:19:46 : Application 
+*[ mongoConnect [32minfo[39m ] 00:19:46 : DB connected
+*[ createServer [32minfo[39m ] 00:20:12 : App is running at http://localhost:8104
+*[ application [32minfo[39m ] 00:20:12 : Application 
+*[ mongoConnect [32minfo[39m ] 00:20:12 : DB connected
+*[ createServer [32minfo[39m ] 00:20:54 : App is running at http://localhost:4000
+*[ application [32minfo[39m ] 00:20:54 : Application 
+*[ mongoConnect [32minfo[39m ] 00:20:56 : DB connected
+*[ createServer [32minfo[39m ] 00:21:30 : App is running at http://localhost:4000
+*[ application [32minfo[39m ] 00:21:30 : Application 
+*[ mongoConnect [32minfo[39m ] 00:21:31 : DB connected
+*[ createServer [32minfo[39m ] 00:22:09 : App is running at http://localhost:4000
+*[ application [32minfo[39m ] 00:22:09 : Application 
+*[ mongoConnect [32minfo[39m ] 00:22:10 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 00:22:27 : mySqlDB connected
+*[ application [32minfo[39m ] 00:22:27 : Application 
+*[ createServer [32minfo[39m ] 00:22:27 : App is running at http://localhost:4000
+*[ mySqlConnect [32minfo[39m ] 00:30:37 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:30:37 : App is running at http://localhost:4000
+*[ application [32minfo[39m ] 00:30:37 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:31:05 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:31:05 : App is running at http://localhost:4000
+*[ application [32minfo[39m ] 00:31:05 : Application 
+*[ application [32minfo[39m ] 00:31:05 : Application 
+*[ mySqlConnect [32minfo[39m ] 00:31:05 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:31:05 : App is running at http://localhost:2000
+*[ mySqlConnect [32minfo[39m ] 00:32:55 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:32:55 : App is running at http://localhost:4000
+*[ application [32minfo[39m ] 00:32:55 : Application 
+*[ application [32minfo[39m ] 00:32:55 : Application 
+*[ createServer [32minfo[39m ] 00:32:55 : App is running at http://localhost:2000
+*[ mongoConnect [32minfo[39m ] 00:33:01 : mongoDB connected
+*[ createServer [32minfo[39m ] 00:33:37 : App is running at http://localhost:4000
+*[ mySqlConnect [32minfo[39m ] 00:33:37 : mySqlDB connected
+*[ application [32minfo[39m ] 00:33:37 : Application 
+*[ application [32minfo[39m ] 00:33:37 : Application 
+*[ createServer [32minfo[39m ] 00:33:37 : App is running at http://localhost:2000
+*[ mongoConnect [32minfo[39m ] 00:33:38 : mongoDB connected
+*[ createServer [32minfo[39m ] 00:34:26 : App is running at http://localhost:4000
+*[ mySqlConnect [32minfo[39m ] 00:34:26 : mySqlDB connected
+*[ application [32minfo[39m ] 00:34:26 : Application 
+*[ application [32minfo[39m ] 00:34:26 : Application 
+*[ createServer [32minfo[39m ] 00:34:26 : App is running at http://localhost:2000
+*[ mongoConnect [32minfo[39m ] 00:34:26 : mongoDB connected
+*[ createServer [32minfo[39m ] 00:35:20 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 00:35:20 : mySqlDB connected
+*[ application [32minfo[39m ] 00:35:20 : Application 
+*[ application [32minfo[39m ] 00:35:20 : Application 
+*[ createServer [32minfo[39m ] 00:35:20 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 00:35:21 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 00:53:03 : mySqlDB connected
+*[ createServer [32minfo[39m ] 00:53:03 : App is running at http://localhost:3000
+*[ application [32minfo[39m ] 00:53:03 : Application
+*[ application [32minfo[39m ] 00:53:03 : Application
+*[ createServer [32minfo[39m ] 00:53:03 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 00:53:09 : mongoDB connected
+*[ createServer [32minfo[39m ] 01:00:25 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 01:00:25 : mySqlDB connected
+*[ application [32minfo[39m ] 01:00:25 : Application
+*[ application [32minfo[39m ] 01:00:25 : Application
+*[ createServer [32minfo[39m ] 01:00:25 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 01:00:26 : mongoDB connected
+*[ createServer [32minfo[39m ] 01:01:09 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 01:01:09 : mySqlDB connected
+*[ application [32minfo[39m ] 01:01:09 : Application
+*[ application [32minfo[39m ] 01:01:09 : Application
+*[ createServer [32minfo[39m ] 01:01:09 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 01:01:09 : mongoDB connected
+*[ createServer [32minfo[39m ] 01:01:25 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 01:01:25 : mySqlDB connected
+*[ application [32minfo[39m ] 01:01:25 : Application
+*[ application [32minfo[39m ] 01:01:25 : Application
+*[ createServer [32minfo[39m ] 01:01:25 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 01:01:30 : mongoDB connected
+*[ createServer [32minfo[39m ] 01:11:14 : App is running at http://localhost:3000
+*[ application [32minfo[39m ] 01:11:14 : Application
+*[ mySqlConnect [32minfo[39m ] 01:11:14 : mySqlDB connected
+*[ application [32minfo[39m ] 01:11:14 : Application
+*[ createServer [32minfo[39m ] 01:11:14 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 01:11:19 : mongoDB connected
+*[ createServer [32minfo[39m ] 01:20:54 : App is running at http://localhost:4000
+*[ mySqlConnect [32minfo[39m ] 01:20:54 : mySqlDB connected
+*[ application [32minfo[39m ] 01:20:54 : Application
+*[ mongoConnect [32minfo[39m ] 01:20:55 : mongoDB connected
+*[ createServer [32minfo[39m ] 01:20:55 : App is running at http://localhost:3000
+*[ application [32minfo[39m ] 01:20:55 : Application
+*[ createServer [32minfo[39m ] 01:23:46 : App is running at http://localhost:4000
+*[ mySqlConnect [32minfo[39m ] 01:23:46 : mySqlDB connected
+*[ mongoConnect [32minfo[39m ] 01:23:46 : mongoDB connected
+*[ createServer [32minfo[39m ] 01:23:46 : App is running at http://localhost:3000
+*[ createServer [32minfo[39m ] 01:24:20 : App is running at http://localhost:4000
+*[ mySqlConnect [32minfo[39m ] 01:24:20 : mySqlDB connected
+*[ mongoConnect [32minfo[39m ] 01:24:21 : mongoDB connected
+*[ createServer [32minfo[39m ] 01:24:21 : App is running at http://localhost:3000
+*[ createServer [32minfo[39m ] 10:28:10 : App is running at http://localhost:3000
+*[ mongoConnect [31merror[39m ] 10:28:10 : Could not connect to db
+*[ createServer [32minfo[39m ] 10:28:43 : App is running at http://localhost:3000
+*[ mongoConnect [31merror[39m ] 10:28:43 : Could not connect to db
+*[ mongoConnect [31merror[39m ] 10:29:45 : Could not connect to db
+*[ createServer [32minfo[39m ] 10:29:45 : App is running at http://localhost:3000
+*[ createServer [32minfo[39m ] 10:31:26 : App is running at http://localhost:3000
+*[ mongoConnect [31merror[39m ] 10:31:26 : Could not connect to db
+*[ createServer [32minfo[39m ] 10:40:54 : App is running at http://localhost:3000
+*[ mongoConnect [31merror[39m ] 10:40:54 : Could not connect to db
+*[ createServer [32minfo[39m ] 10:48:37 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 10:48:38 : mongoDB connected
+*[ createServer [32minfo[39m ] 11:59:27 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 11:59:27 : mongoDB connected
+*[ createServer [32minfo[39m ] 11:59:54 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 11:59:54 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:00:01 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:00:01 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:00:38 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:00:38 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:02:20 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:02:20 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:21:43 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:21:43 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:24:23 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:24:23 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:25:14 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:25:14 : mongoDB connected
+*[ mongoConnect [32minfo[39m ] 12:25:57 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:25:57 : App is running at http://localhost:3000
+*[ createServer [32minfo[39m ] 12:44:55 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:44:56 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:45:46 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:45:46 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:47:12 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:47:12 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:47:24 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:47:25 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:47:47 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:47:47 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:48:11 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:48:11 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:49:08 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:49:08 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:49:52 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:49:53 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:54:06 : App is running at http://localhost:3000
+*[ application [32minfo[39m ] 12:54:06 : mongoDB Route
+*[ mongoConnect [32minfo[39m ] 12:54:06 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:56:37 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:56:43 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:56:51 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:56:52 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:58:37 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:58:38 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:58:46 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:58:47 : mongoDB connected
+*[ createServer [32minfo[39m ] 12:58:52 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 12:58:53 : mongoDB connected
+*[ createServer [32minfo[39m ] 13:00:08 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 13:00:09 : mongoDB connected
+*[ createServer [32minfo[39m ] 13:00:18 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 13:00:18 : mySqlDB connected
+*[ createServer [32minfo[39m ] 13:00:18 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:00:19 : mongoDB connected
+*[ Server [32minfo[39m ] 13:04:46 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 13:04:46 : mySqlDB connected
+*[ Server [32minfo[39m ] 13:04:46 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:04:47 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 13:42:18 : mySqlDB connected
+*[ Server [32minfo[39m ] 13:42:18 : App is running at http://localhost:3000
+*[ Server [32minfo[39m ] 13:42:18 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:42:19 : mongoDB connected
+*[ Server [32minfo[39m ] 13:42:59 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 13:42:59 : mySqlDB connected
+*[ Server [32minfo[39m ] 13:42:59 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:42:59 : mongoDB connected
+*[ Server [32minfo[39m ] 13:44:23 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 13:44:23 : mySqlDB connected
+*[ Server [32minfo[39m ] 13:44:23 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:44:24 : mongoDB connected
+*[ Server [32minfo[39m ] 13:45:15 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 13:45:15 : mySqlDB connected
+*[ Server [32minfo[39m ] 13:45:15 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:45:15 : mongoDB connected
+*[ Server [32minfo[39m ] 13:45:31 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 13:45:31 : mySqlDB connected
+*[ Server [32minfo[39m ] 13:45:31 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:45:32 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 13:47:39 : mySqlDB connected
+*[ Server [32minfo[39m ] 13:47:39 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 13:47:39 : mongoDB
+*[ routes [32minfo[39m ] 13:47:39 : mySqlDB
+*[ Server [32minfo[39m ] 13:47:39 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:47:39 : mongoDB connected
+*[ Server [32minfo[39m ] 13:47:56 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 13:47:56 : mySqlDB connected
+*[ routes [32minfo[39m ] 13:47:56 : app.settings.dbName=====
+*[ routes [32minfo[39m ] 13:47:56 : app.settings.dbName=====
+*[ Server [32minfo[39m ] 13:47:56 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:47:57 : mongoDB connected
+*[ Server [32minfo[39m ] 13:50:07 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 13:50:07 : mySqlDB connected
+*[ routes [32minfo[39m ] 13:50:07 : mongoDB
+*[ routes [32minfo[39m ] 13:50:07 : mySqlDB
+*[ Server [32minfo[39m ] 13:50:07 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 13:50:07 : mongoDB connected
+*[ Server [32minfo[39m ] 15:08:47 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:08:47 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:08:47 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:08:48 : mongoDB connected
+*[ Server [32minfo[39m ] 15:12:37 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:12:37 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:12:37 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:12:38 : mongoDB connected
+*[ Server [32minfo[39m ] 15:12:41 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:12:41 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:12:41 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:12:41 : mongoDB connected
+*[ Server [32minfo[39m ] 15:15:22 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:15:22 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:15:22 : app.settings.dbName=====
+*[ routes [32minfo[39m ] 15:15:22 : app.settings.dbName=====
+*[ Server [32minfo[39m ] 15:15:22 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:15:22 : mongoDB connected
+*[ Server [32minfo[39m ] 15:15:31 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:15:31 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:15:31 : mongoDB
+*[ routes [32minfo[39m ] 15:15:31 : mySqlDB
+*[ Server [32minfo[39m ] 15:15:31 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:15:31 : mongoDB connected
+*[ Server [32minfo[39m ] 15:17:21 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:17:21 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:17:21 : mongoDB
+*[ routes [32minfo[39m ] 15:17:21 : mySqlDB
+*[ Server [32minfo[39m ] 15:17:21 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:17:22 : mongoDB connected
+*[ Server [32minfo[39m ] 15:18:33 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:18:33 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:18:33 : mongoDB
+*[ routes [32minfo[39m ] 15:18:33 : mySqlDB
+*[ Server [32minfo[39m ] 15:18:33 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:18:33 : mongoDB connected
+*[ Server [32minfo[39m ] 15:18:53 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:18:53 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:18:53 : mongoDB
+*[ routes [32minfo[39m ] 15:18:53 : mySqlDB
+*[ Server [32minfo[39m ] 15:18:53 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:18:53 : mongoDB connected
+*[ Server [32minfo[39m ] 15:19:09 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:19:09 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:19:09 : mongoDB
+*[ routes [32minfo[39m ] 15:19:09 : mySqlDB
+*[ Server [32minfo[39m ] 15:19:09 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:19:10 : mongoDB connected
+*[ Server [32minfo[39m ] 15:19:38 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:19:38 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:19:38 : mongoDB
+*[ routes [32minfo[39m ] 15:19:38 : mySqlDB
+*[ Server [32minfo[39m ] 15:19:38 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:19:39 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:19:45 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:19:45 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:19:45 : mongoDB
+*[ routes [32minfo[39m ] 15:19:45 : mySqlDB
+*[ Server [32minfo[39m ] 15:19:45 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:19:45 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:19:56 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:19:56 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:19:56 : mongoDB
+*[ routes [32minfo[39m ] 15:19:56 : mySqlDB
+*[ Server [32minfo[39m ] 15:19:56 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:19:56 : mongoDB connected
+*[ Server [32minfo[39m ] 15:23:41 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:23:41 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:23:41 : mongoDB
+*[ routes [32minfo[39m ] 15:23:41 : mySqlDB
+*[ Server [32minfo[39m ] 15:23:41 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:23:41 : mongoDB connected
+*[ Server [32minfo[39m ] 15:24:43 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:24:43 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:24:43 : mongoDB
+*[ routes [32minfo[39m ] 15:24:43 : mySqlDB
+*[ Server [32minfo[39m ] 15:24:43 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:24:44 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:24:52 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:24:52 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:24:52 : mongoDB
+*[ routes [32minfo[39m ] 15:24:52 : mySqlDB
+*[ Server [32minfo[39m ] 15:24:52 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:24:53 : mongoDB connected
+*[ Server [32minfo[39m ] 15:25:34 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:25:34 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:25:34 : mySqlDB
+*[ routes [32minfo[39m ] 15:25:34 : mongoDB
+*[ Server [32minfo[39m ] 15:25:34 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:25:35 : mongoDB connected
+*[ Server [32minfo[39m ] 15:27:57 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:27:57 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:27:57 : mongoDB
+*[ routes [32minfo[39m ] 15:27:57 : mySqlDB
+*[ Server [32minfo[39m ] 15:27:57 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:27:57 : mongoDB connected
+*[ Server [32minfo[39m ] 15:28:08 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:28:08 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:28:08 : mongoDB
+*[ routes [32minfo[39m ] 15:28:08 : mySqlDB
+*[ Server [32minfo[39m ] 15:28:08 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:28:08 : mongoDB connected
+*[ Server [32minfo[39m ] 15:28:22 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:28:22 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:28:22 : mongoDB
+*[ routes [32minfo[39m ] 15:28:22 : mySqlDB
+*[ Server [32minfo[39m ] 15:28:22 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:28:23 : mongoDB connected
+*[ Server [32minfo[39m ] 15:28:57 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:28:57 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:28:57 : mongoDB
+*[ routes [32minfo[39m ] 15:28:57 : mySqlDB
+*[ Server [32minfo[39m ] 15:28:57 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:28:58 : mongoDB connected
+*[ Server [32minfo[39m ] 15:30:07 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:30:07 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:30:07 : mongoDB
+*[ routes [32minfo[39m ] 15:30:07 : mySqlDB
+*[ Server [32minfo[39m ] 15:30:07 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:30:07 : mongoDB connected
+*[ Server [32minfo[39m ] 15:30:54 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:30:54 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:30:54 : mongoDB
+*[ routes [32minfo[39m ] 15:30:54 : mySqlDB
+*[ Server [32minfo[39m ] 15:30:54 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:30:55 : mongoDB connected
+*[ Server [32minfo[39m ] 15:34:14 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:34:14 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:34:14 : mongoDB
+*[ routes [32minfo[39m ] 15:34:14 : mySqlDB
+*[ Server [32minfo[39m ] 15:34:14 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:34:14 : mongoDB connected
+*[ Server [32minfo[39m ] 15:34:49 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:34:49 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:34:49 : mongoDB
+*[ routes [32minfo[39m ] 15:34:49 : mySqlDB
+*[ Server [32minfo[39m ] 15:34:49 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:34:49 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:35:39 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:35:39 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:35:39 : mongoDB
+*[ routes [32minfo[39m ] 15:35:39 : mySqlDB
+*[ Server [32minfo[39m ] 15:35:39 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:35:41 : mongoDB connected
+*[ Server [32minfo[39m ] 15:39:12 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:39:12 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:39:12 : mongoDB
+*[ routes [32minfo[39m ] 15:39:12 : mySqlDB
+*[ Server [32minfo[39m ] 15:39:12 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:39:13 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:41:28 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:41:28 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:41:28 : mongoDB
+*[ routes [32minfo[39m ] 15:41:28 : mySqlDB
+*[ Server [32minfo[39m ] 15:41:28 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:41:29 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:41:41 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:41:41 : mongoDB
+*[ Server [32minfo[39m ] 15:41:41 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:41:41 : mySqlDB
+*[ Server [32minfo[39m ] 15:41:41 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:41:41 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:42:04 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:42:04 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:42:04 : mongoDB
+*[ routes [32minfo[39m ] 15:42:04 : mySqlDB
+*[ Server [32minfo[39m ] 15:42:04 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:42:05 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:43:11 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:43:11 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:43:11 : mongoDB
+*[ routes [32minfo[39m ] 15:43:11 : mySqlDB
+*[ Server [32minfo[39m ] 15:43:11 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:43:12 : mongoDB connected
+*[ Server [32minfo[39m ] 15:44:29 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:44:29 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:44:29 : mongoDB
+*[ routes [32minfo[39m ] 15:44:29 : mySqlDB
+*[ Server [32minfo[39m ] 15:44:29 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:44:30 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:47:08 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:47:08 : App is running at http://localhost:3000
+*[ routes [32minfo[39m ] 15:47:08 : mongoDB
+*[ routes [32minfo[39m ] 15:47:08 : mySqlDB
+*[ Server [32minfo[39m ] 15:47:08 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:47:14 : mongoDB connected
+*[ Server [32minfo[39m ] 15:47:27 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:47:27 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:47:27 : mongoDB
+*[ routes [32minfo[39m ] 15:47:27 : mySqlDB
+*[ Server [32minfo[39m ] 15:47:27 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:47:27 : mongoDB connected
+*[ Server [32minfo[39m ] 15:51:12 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:51:12 : mySqlDB connected
+*[ routes [32minfo[39m ] 15:51:12 : mongoDB
+*[ routes [32minfo[39m ] 15:51:12 : mySqlDB
+*[ Server [32minfo[39m ] 15:51:12 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:51:18 : mongoDB connected
+*[ Server [32minfo[39m ] 15:51:37 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 15:51:37 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:51:37 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:51:37 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 15:54:21 : mySqlDB connected
+*[ Server [32minfo[39m ] 15:54:21 : App is running at http://localhost:3000
+*[ Server [32minfo[39m ] 15:54:21 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 15:54:21 : mongoDB connected
+*[ Server [32minfo[39m ] 16:10:08 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:10:08 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:10:08 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:10:09 : mongoDB connected
+*[ Server [32minfo[39m ] 16:11:36 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:11:36 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:11:36 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:11:37 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 16:11:48 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:11:48 : App is running at http://localhost:3000
+*[ Server [32minfo[39m ] 16:11:48 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:11:49 : mongoDB connected
+*[ Server [32minfo[39m ] 16:12:25 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:12:25 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:12:25 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:12:26 : mongoDB connected
+*[ Server [32minfo[39m ] 16:12:52 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:12:52 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:12:52 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:12:52 : mongoDB connected
+*[ Server [32minfo[39m ] 16:14:32 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:14:32 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:14:32 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:14:33 : mongoDB connected
+*[ Server [32minfo[39m ] 16:15:09 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:15:09 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:15:09 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:15:10 : mongoDB connected
+*[ Server [32minfo[39m ] 16:15:18 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:15:18 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:15:18 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:15:18 : mongoDB connected
+*[ Server [32minfo[39m ] 16:15:59 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:15:59 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:15:59 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:15:59 : mongoDB connected
+*[ Server [32minfo[39m ] 16:16:59 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:16:59 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:16:59 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:17:00 : mongoDB connected
+*[ Server [32minfo[39m ] 16:20:37 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 16:20:37 : mySqlDB connected
+*[ Server [32minfo[39m ] 16:20:37 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 16:20:43 : mongoDB connected
+*[ Server [32minfo[39m ] 16:56:30 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 16:56:31 : mongoDB connected
+*[ Server [32minfo[39m ] 16:57:18 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 16:57:18 : mongoDB connected
+*[ Server [32minfo[39m ] 16:58:26 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 16:58:26 : mongoDB connected
+*[ Server [32minfo[39m ] 16:58:51 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 16:58:52 : mongoDB connected
+*[ Server [32minfo[39m ] 16:59:57 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 16:59:58 : mongoDB connected
+*[ Server [32minfo[39m ] 17:00:56 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 17:01:02 : mongoDB connected
+*[ Server [32minfo[39m ] 17:01:07 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 17:01:07 : mongoDB connected
+*[ Server [32minfo[39m ] 17:01:21 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 17:01:22 : mongoDB connected
+*[ Server [32minfo[39m ] 17:03:45 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 17:03:45 : mongoDB connected
+*[ Server [32minfo[39m ] 17:06:29 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 17:06:30 : mongoDB connected
+*[ Server [32minfo[39m ] 17:06:43 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 17:06:43 : mongoDB connected
+*[ Server [32minfo[39m ] 17:07:59 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 17:08:05 : mongoDB connected
+*[ Server [32minfo[39m ] 17:08:51 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 17:08:51 : mongoDB connected
+*[ mySqlConnect [32minfo[39m ] 17:10:30 : mySqlDB connected
+*[ Server [32minfo[39m ] 17:10:30 : App is running at http://localhost:3000
+*[ Server [32minfo[39m ] 17:10:30 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 17:10:31 : mongoDB connected
+*[ Server [32minfo[39m ] 17:10:44 : App is running at http://localhost:3000
+*[ mySqlConnect [32minfo[39m ] 17:10:44 : mySqlDB connected
+*[ Server [32minfo[39m ] 17:10:44 : App is running at http://localhost:4000
+*[ mongoConnect [32minfo[39m ] 17:10:44 : mongoDB connected
+*[ undefined [32minfo[39m ] 23:24:50 : App is running at http://localhost:3000
+*[ undefined [32minfo[39m ] 23:24:52 : mongoDB connected
+*[ undefined [32minfo[39m ] 23:25:07 : App is running at http://localhost:3000
+*[ undefined [32minfo[39m ] 23:25:12 : mongoDB connected
+*[ undefined [32minfo[39m ] 23:26:04 : App is running at http://localhost:3000
+*[ undefined [32minfo[39m ] 23:26:05 : mongoDB connected
+*[ undefined [32minfo[39m ] 23:27:24 : App is running at http://localhost:3000
+*[ undefined [32minfo[39m ] 23:27:24 : mongoDB connected
+*[ undefined [32minfo[39m ] 23:28:19 : App is running at http://localhost:3000
+*[ undefined [32minfo[39m ] 23:28:20 : mongoDB connected
+*[ undefined [32minfo[39m ] 23:30:13 : App is running at http://localhost:3000
+*[ undefined [32minfo[39m ] 23:30:14 : mongoDB connected
+*[ Server [32minfo[39m ] 23:32:53 : App is running at http://localhost:3000
+*[ mongoConnect [32minfo[39m ] 23:32:54 : mongoDB connected
+*[ Server [32minfo[39m ] 23:41:42 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 23:41:48 : mongoDB connected
+*[ Server [32minfo[39m ] 23:42:36 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 23:42:36 : mongoDB connected
+*[ Server [32minfo[39m ] 00:02:05 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:02:11 : mongoDB connected
+*[ Server [32minfo[39m ] 00:04:39 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:04:40 : mongoDB connected
+*[ Server [32minfo[39m ] 00:05:38 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:05:40 : mongoDB connected
+*[ Server [32minfo[39m ] 00:05:58 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:05:58 : mongoDB connected
+*[ Server [32minfo[39m ] 00:06:20 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:06:20 : mongoDB connected
+*[ Server [32minfo[39m ] 00:09:23 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:09:24 : mongoDB connected
+*[ Server [32minfo[39m ] 00:09:40 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:09:41 : mongoDB connected
+*[ Server [32minfo[39m ] 00:10:34 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:10:35 : mongoDB connected
+*[ Server [32minfo[39m ] 00:11:02 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:11:03 : mongoDB connected
+*[ Server [32minfo[39m ] 00:12:15 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:12:15 : mongoDB connected
+*[ Server [32minfo[39m ] 00:12:37 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:12:38 : mongoDB connected
+*[ Server [32minfo[39m ] 00:12:44 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:12:44 : mongoDB connected
+*[ Server [32minfo[39m ] 00:13:45 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:13:51 : mongoDB connected
+*[ Server [32minfo[39m ] 00:14:11 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:14:12 : mongoDB connected
+*[ Server [32minfo[39m ] 00:14:48 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 00:14:49 : mongoDB connected
+*[ Server [32minfo[39m ] 09:58:14 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 09:58:15 : mongoDB connected
+*[ Server [32minfo[39m ] 09:59:19 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 09:59:19 : mongoDB connected
+*[ Server [32minfo[39m ] 10:03:12 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:03:13 : mongoDB connected
+*[ Server [32minfo[39m ] 10:04:36 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:04:37 : mongoDB connected
+*[ Server [32minfo[39m ] 10:11:15 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:11:15 : mongoDB connected
+*[ Server [32minfo[39m ] 10:31:52 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:31:53 : mongoDB connected
+*[ Server [32minfo[39m ] 10:32:37 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:32:38 : mongoDB connected
+*[ Server [32minfo[39m ] 10:48:31 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:48:36 : mongoDB connected
+*[ Server [32minfo[39m ] 10:49:07 : App is running at http://localhost:3000
+*[ Server [32minfo[39m ] 10:50:34 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:50:35 : mongoDB connected
+*[ Server [32minfo[39m ] 10:51:47 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:51:48 : mongoDB connected
+*[ Server [32minfo[39m ] 10:53:31 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:53:37 : mongoDB connected
+*[ Server [32minfo[39m ] 11:00:33 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:00:33 : mongoDB connected
+*[ Server [32minfo[39m ] 11:02:53 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:02:54 : mongoDB connected
+*[ Server [32minfo[39m ] 11:03:13 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:03:14 : mongoDB connected
+*[ Server [32minfo[39m ] 11:04:24 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:04:24 : mongoDB connected
+*[ Server [32minfo[39m ] 11:15:00 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:15:01 : mongoDB connected
+*[ Server [32minfo[39m ] 11:21:56 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:21:56 : mongoDB connected
+*[ Server [32minfo[39m ] 11:28:07 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:28:12 : mongoDB connected
+*[ Server [32minfo[39m ] 11:46:11 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:46:12 : mongoDB connected
+*[ Server [32minfo[39m ] 11:46:55 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:47:01 : mongoDB connected
+*[ Server [32minfo[39m ] 11:48:59 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:48:59 : mongoDB connected
+*[ Server [32minfo[39m ] 11:56:49 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:56:50 : mongoDB connected
+*[ Server [32minfo[39m ] 11:58:13 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 11:58:14 : mongoDB connected
+*[ Server [32minfo[39m ] 12:01:30 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:01:31 : mongoDB connected
+*[ Server [32minfo[39m ] 12:03:01 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:03:02 : mongoDB connected
+*[ Server [32minfo[39m ] 12:04:40 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:04:41 : mongoDB connected
+*[ Server [32minfo[39m ] 12:05:03 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:05:03 : mongoDB connected
+*[ Server [32minfo[39m ] 12:07:04 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:07:04 : mongoDB connected
+*[ Server [32minfo[39m ] 12:07:39 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:07:39 : mongoDB connected
+*[ Server [32minfo[39m ] 12:09:05 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:09:06 : mongoDB connected
+*[ Server [32minfo[39m ] 12:09:46 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:09:46 : mongoDB connected
+*[ Server [32minfo[39m ] 12:10:29 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:10:30 : mongoDB connected
+*[ Server [32minfo[39m ] 12:10:49 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:10:49 : mongoDB connected
+*[ Server [32minfo[39m ] 12:11:27 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:11:32 : mongoDB connected
+*[ Server [32minfo[39m ] 12:12:36 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:12:37 : mongoDB connected
+*[ Server [32minfo[39m ] 12:13:10 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:13:10 : mongoDB connected
+*[ Server [32minfo[39m ] 12:13:24 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:13:25 : mongoDB connected
+*[ Server [32minfo[39m ] 12:14:09 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:14:09 : mongoDB connected
+*[ Server [32minfo[39m ] 12:17:13 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:17:19 : mongoDB connected
+*[ Server [32minfo[39m ] 12:17:50 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:17:51 : mongoDB connected
+*[ Server [32minfo[39m ] 12:18:19 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:18:20 : mongoDB connected
+*[ Server [32minfo[39m ] 12:18:48 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:18:48 : mongoDB connected
+*[ Server [32minfo[39m ] 12:19:06 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:19:07 : mongoDB connected
+*[ Error handler [31merror[39m ] 12:19:08 : todos validation failed: description: Path `description` is required.
+*[ Server [32minfo[39m ] 12:22:58 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:22:59 : mongoDB connected
+*[ Server [32minfo[39m ] 12:28:13 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:28:14 : mongoDB connected
+*[ Server [32minfo[39m ] 12:28:55 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:29:01 : mongoDB connected
+*[ Server [32minfo[39m ] 12:29:30 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:29:31 : mongoDB connected
+*[ Server [32minfo[39m ] 12:33:24 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:33:24 : mongoDB connected
+*[ Server [32minfo[39m ] 12:33:49 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 12:33:49 : mongoDB connected
+*[ Server [32minfo[39m ] 13:02:55 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 13:02:55 : mongoDB connected
+*[ Server [32minfo[39m ] 13:04:03 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 13:04:04 : mongoDB connected
+*[ Server [32minfo[39m ] 13:04:48 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 13:04:49 : mongoDB connected
+*[ Server [32minfo[39m ] 13:05:39 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 13:05:40 : mongoDB connected
+*[ Server [32minfo[39m ] 13:06:43 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 13:06:49 : mongoDB connected
+*[ Server [32minfo[39m ] 13:07:28 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 13:07:28 : mongoDB connected
+*[ Server [32minfo[39m ] 13:09:32 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 13:09:33 : mongoDB connected
+*[ Error handler [31merror[39m ] 13:09:43 : todos validation failed: description: Path `description` is required.
+*[ Server [32minfo[39m ] 13:10:48 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 13:10:49 : mongoDB connected
+*[ Error handler [31merror[39m ] 13:10:51 : todos validation failed: description: Path `description` is required.
+*[ Error handler [31merror[39m ] 13:11:35 : todos validation failed: title: Path `title` is required.
+*[ Server [32minfo[39m ] 14:21:25 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 14:21:25 : mongoDB connected
+*[ Server [32minfo[39m ] 14:21:54 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 14:21:55 : mongoDB connected
+*[ Server [32minfo[39m ] 14:29:12 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 14:29:13 : mongoDB connected
+*[ Server [32minfo[39m ] 14:29:22 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 14:29:22 : mongoDB connected
+*[ Server [32minfo[39m ] 14:32:07 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 14:32:19 : mongoDB connected
+*[ Error handler [31merror[39m ] 14:33:05 : todos validation failed: title: Path `title` is required.
+*[ Server [32minfo[39m ] 14:34:36 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 14:34:36 : mongoDB connected
+*[ Server [32minfo[39m ] 14:44:41 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 14:44:41 : mongoDB connected
+*[ Server [32minfo[39m ] 14:47:30 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 14:47:31 : mongoDB connected
+*[ Server [32minfo[39m ] 14:56:46 : App is running at http://localhost:3000
+*[ Error handler [31merror[39m ] 14:57:03 : Operation `todos.find()` buffering timed out after 10000ms
+*[ mongoDB [32minfo[39m ] 14:57:08 : mongoDB connected
+*[ Server [32minfo[39m ] 21:56:23 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 21:56:24 : mongoDB connected
+*[ Server [32minfo[39m ] 22:03:13 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:03:14 : mongoDB connected
+*[ Server [32minfo[39m ] 22:07:38 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:07:39 : mongoDB connected
+*[ Server [32minfo[39m ] 22:08:39 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:08:40 : mongoDB connected
+*[ Server [32minfo[39m ] 22:13:34 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:13:35 : mongoDB connected
+*[ Server [32minfo[39m ] 22:14:10 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:14:10 : mongoDB connected
+*[ Server [32minfo[39m ] 22:14:51 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:14:51 : mongoDB connected
+*[ Server [32minfo[39m ] 22:15:56 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:15:57 : mongoDB connected
+*[ Server [32minfo[39m ] 22:21:36 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:21:36 : mongoDB connected
+*[ Error handler [31merror[39m ] 22:22:26 : input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+*[ Error handler [31merror[39m ] 22:22:59 : input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+*[ Server [32minfo[39m ] 22:24:38 : App is running at http://localhost:3000
+*[ Error handler [31merror[39m ] 22:24:41 : input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+*[ mongoDB [32minfo[39m ] 22:24:44 : mongoDB connected
+*[ Server [32minfo[39m ] 22:25:03 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:25:03 : mongoDB connected
+*[ Error handler [31merror[39m ] 22:25:06 : input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+*[ Server [32minfo[39m ] 22:25:45 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:25:51 : mongoDB connected
+*[ Error handler [31merror[39m ] 22:25:53 : input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+*[ Server [32minfo[39m ] 22:26:28 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:26:28 : mongoDB connected
+*[ Error handler [31merror[39m ] 22:26:32 : input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+*[ Server [32minfo[39m ] 22:27:53 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:27:54 : mongoDB connected
+*[ Server [32minfo[39m ] 22:28:44 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:28:45 : mongoDB connected
+*[ Server [32minfo[39m ] 22:29:05 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:29:12 : mongoDB connected
+*[ Server [32minfo[39m ] 22:30:07 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:30:08 : mongoDB connected
+*[ Server [32minfo[39m ] 22:30:56 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:30:56 : mongoDB connected
+*[ Server [32minfo[39m ] 22:31:29 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:31:30 : mongoDB connected
+*[ Error handler [31merror[39m ] 22:31:48 : input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+*[ Server [32minfo[39m ] 22:32:06 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:32:11 : mongoDB connected
+*[ Server [32minfo[39m ] 22:34:12 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:34:13 : mongoDB connected
+*[ Error handler [31merror[39m ] 22:34:29 : input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+*[ Server [32minfo[39m ] 22:34:57 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:35:02 : mongoDB connected
+*[ Server [32minfo[39m ] 22:43:36 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:43:42 : mongoDB connected
+*[ Server [32minfo[39m ] 22:44:54 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:44:55 : mongoDB connected
+*[ Server [32minfo[39m ] 22:45:38 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:45:40 : mongoDB connected
+*[ Server [32minfo[39m ] 22:45:55 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:45:56 : mongoDB connected
+*[ Server [32minfo[39m ] 22:46:00 : App is running at http://localhost:3000
+*[ Server [32minfo[39m ] 22:46:07 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:46:08 : mongoDB connected
+*[ Server [32minfo[39m ] 22:48:16 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 22:48:16 : mongoDB connected
+*[ Server [32minfo[39m ] 23:17:01 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 23:17:01 : mongoDB connected
+*[ Server [32minfo[39m ] 23:24:23 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 23:24:23 : mongoDB connected
+*[ Server [32minfo[39m ] 10:26:28 : App is running at http://localhost:3000
+*[ mongoDB [32minfo[39m ] 10:26:28 : mongoDB connected
