@@ -12,9 +12,6 @@ class App {
       res.send("This is test api!");
     });
     app.use(allRoutes);
-    app.get("/", (req: Request, res: Response) => {
-      res.send("Route not found --Vinayak!");
-    });
 
     app.use(errorHandler);
     return app;
